@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Seipai Stream Bypass Ad-Gate Livewire
+// @name         Senpai Stream Bypass Ad-Gate Livewire
 // @namespace    bypass-adgate
 // @version      1.2
-// @description  Bypass le mur publicitaire Livewire sans pub
+// @description  Senpai Stream Bypass Ads
 // @match        *://*/*
 // @grant        none
 // @run-at       document-idle
