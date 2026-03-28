@@ -51,7 +51,6 @@
     }
 
     function hookButton(btn) {
-        // Bloque la navigation vers la pub
         btn.removeAttribute('href');
         btn.removeAttribute('target');
 
