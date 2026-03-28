@@ -1,7 +1,6 @@
 # 🚫 Senpai Stream - Bypass Ad-Gate
 
-Userscript ViolentMonkey/Tampermonkey qui bypass automatiquement le mur
-publicitaire de **Senpai Stream**, sans regarder de publicité.
+Userscript ViolentMonkey/Tampermonkey qui bypass automatiquement les pubs de **Senpai Stream**,
 
 ## ✅ Installation
 
